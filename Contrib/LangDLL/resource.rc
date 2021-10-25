@@ -1,4 +1,4 @@
-//Microsoft Developer Studio generated resource script.
+﻿//Microsoft Developer Studio generated resource script.
 //
 #include "resource.h"
 
@@ -37,6 +37,7 @@ BEGIN
     PUSHBUTTON      "Cancel",IDCANCEL,135,59,50,14
     LTEXT           "",IDC_TEXT,45,10,140,27
     ICON            "",IDC_APPICON,10,10,20,20
+    CTEXT           "Language",IDC_LANG,11,40,30,8
 END
 
 
